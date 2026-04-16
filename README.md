@@ -4,9 +4,9 @@
 
 Olá! Me chamo Carlos Eduardo Bernardo Lopes e sou estudante de Eletrônica Industrial pela FATEC São Paulo.
 
-Tenho foco em desenvolvimento backend com Java, trabalhando com conceitos como orientação a objetos, APIs REST e banco de dados, além de utilizar tecnologias como Spring Boot no desenvolvimento de aplicações.
+Tenho foco em desenvolvimento Java, trabalhando com conceitos como orientação a objetos, APIs REST e banco de dados, além de utilizar tecnologias como Spring Boot no desenvolvimento de aplicações.
 
-Possuo experiência prática em ambientes técnicos, atuando com manutenção, automação e calibração de equipamentos, o que fortaleceu meu raciocínio lógico, autonomia e capacidade de resolver problemas reais.
+Possuo experiência prática em ambientes técnicos, atuando com manutenção, automação e calibração de equipamentos, criação de softwares, o que fortaleceu meu raciocínio lógico, autonomia e capacidade de resolver problemas reais.
 
 Atualmente, estou em transição para a área de desenvolvimento, buscando minha primeira oportunidade como Desenvolvedor Java Júnior, onde eu possa contribuir com soluções, evoluir rapidamente e gerar valor para o time.
 
